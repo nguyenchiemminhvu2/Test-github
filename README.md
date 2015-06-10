@@ -1,2 +1,2 @@
 # Test-github
-Test some function of github
+Test some function of github as fork or pull request...
